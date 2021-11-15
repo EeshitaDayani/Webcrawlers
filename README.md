@@ -14,3 +14,8 @@ Python script to track product prices on eBay using Beautiful Soup and Requests 
 ## Webscraper 2: GoodreadsRatingTracker 
 
 Python script to track change in ratings of a book on Goodreads and Requests libraries. A request is made to the URL of the book, and the HTML file of the webpage is loaded. The name and current rating of the book is extracted. The current rating is then compared to a user-decided threshold value in a time-updated while loop. When the rating of the book rises above the minimum value, a print statement is passed alerting the user that the rating has increased past the threshold value. There is also a list of recommended books available to the user at the end of the program.
+
+
+### Webscraper 3: NBA Tracker
+
+TODO
